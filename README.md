@@ -1,6 +1,6 @@
-## Hey There!
+# Hey There!
 
-# 💫 About Me:
+## 💫 About Me:
 Grad student working on leveling up my AI/ML skills
 
 
